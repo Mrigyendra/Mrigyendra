@@ -1,16 +1,35 @@
 ## Hi there 👋
 
-<!--
-**Mrigyendra/Mrigyendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hello, I'm Mrigyendra!
 
-Here are some ideas to get you started:
+🚀 Aspiring Developer | 💡 Tech Enthusiast  
+🎓 Studying Computer Science  
+🌱 Currently learning: Python, GUI Development, and CustomTkinter  
+📫 Reach me at: [your email or LinkedIn]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Technologies & Tools
+- 💻 Python | Tkinter | CustomTkinter
+- 🌐 HTML | CSS | JavaScript
+- 🗃 Git | GitHub
+
+---
+
+## 📂 Featured Projects
+
+- 🎨 **School Management System GUI**  
+  A modern Python app using CustomTkinter with login, dashboard, and grade tracking.
+
+- 📊 **Student Grade Visualizer**  
+  Uses matplotlib to display student performance trends.
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrigyendra&show_icons=true&theme=tokyonight)
+
+---
+
+_Thanks for visiting my profile! Feel free to connect with me._ 😊
